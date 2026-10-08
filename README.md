@@ -1,2 +1,3 @@
-# WipeChats-Website
-Official WipeChats website
+# WipeChats website
+
+Home, privacybeleid en support voor publicatie via GitHub Pages.
